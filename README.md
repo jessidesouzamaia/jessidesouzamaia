@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jessidesouzamai  jesse stande
+- 👋 Hi, I’m @jessidesouzamai  Jesse Stande
 -- 👀 I’m interested  Designer de Produto e Programador que adora aprender algo novo, eu desenvolvo soluções de front-end e back-end.
 - 🌱 I’m currently learnin react nodejs 
 - 📫 How to reach me 11960233251 whatsapp
